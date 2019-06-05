@@ -1,0 +1,27 @@
+base_url = "https://janbaudisch.de"
+title = "Jan Baudisch"
+
+highlight_code = false
+
+build_search_index = false
+
+theme = "hallo"
+
+[extra]
+greeting = "Hallo!"
+
+iam = "Ich bin"
+
+links = [
+    { title = "E-Mail", url = "mailto:jan@baudisch.xyz", iconset = "fas", icon = "envelope" },
+    { title = "PGP Public Key", url = "jan@baudisch.xyz.pgp", iconset = "fas", icon = "key" },
+    { title = "GitHub", url = "https://github.com/flyingP0tat0", icon = "github" }
+]
+
+[extra.author]
+name = "Jan"
+
+[extra.theme]
+background = "#6FCDBD"
+foreground = "#FFF"
+hover = "#333"
