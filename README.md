@@ -1,6 +1,6 @@
 [![Build Status][build-img]][build-url]
 
-# web
+# janbaudisch
 
 > My [personal website][site].
 
