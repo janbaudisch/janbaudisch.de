@@ -14,7 +14,7 @@ zola build
 
 The generated site will be under `public`.
 
-[build-img]: https://travis-ci.com/janbaudisch/janbaudisch.svg?branch=master
-[build-url]: https://travis-ci.com/janbaudisch/janbaudisch
+[build-img]: https://builds.sr.ht/~janbaudisch/janbaudisch.de.svg
+[build-url]: https://builds.sr.ht/~janbaudisch/janbaudisch.de
 [site]: https://janbaudisch.de
 [zola]: https://www.getzola.org
