@@ -1,6 +1,6 @@
 [![Build Status][build-img]][build-url]
 
-# janbaudisch
+# janbaudisch.de
 
 > My [personal website][site].
 
@@ -17,4 +17,4 @@ The generated site will be under `public`.
 [build-img]: https://builds.sr.ht/~janbaudisch/janbaudisch.de.svg
 [build-url]: https://builds.sr.ht/~janbaudisch/janbaudisch.de
 [site]: https://janbaudisch.de
-[zola]: https://www.getzola.org
+[zola]: https://getzola.org
