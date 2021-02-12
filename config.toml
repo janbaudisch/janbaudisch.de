@@ -14,7 +14,7 @@ iam = "Ich bin"
 
 links = [
     { title = "E-Mail", url = "mailto:jan@baudisch.xyz", iconset = "fas", icon = "envelope" },
-    { title = "PGP Public Key", url = "jan@baudisch.xyz.pgp", iconset = "fas", icon = "key" },
+    { title = "PGP Public Key", url = "jan@baudisch.xyz.asc", iconset = "fas", icon = "key" },
     { title = "GitHub", url = "https://github.com/janbaudisch", icon = "github" }
 ]
 
